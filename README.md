@@ -65,6 +65,7 @@ Also:
 ### t-Tests on Suspension Coils
 ### All t-tests
 Summary of the t-test results across all manufacturing lots:
+
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/36766602/165422118-11a479f6-96ae-4f92-8d37-7caa1e8096ce.png">
 
 Here we can see the true mean of the sample is 1498.78, which we also saw in the summary statistics above. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. 
